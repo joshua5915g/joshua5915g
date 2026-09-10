@@ -21,17 +21,17 @@
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0 auto;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 6px;">
-        <img src="./terminal-card.svg" alt="joshua5915g Terminal Portrait" width="450" />
+        <img src="./terminal-card.svg?v=2" alt="joshua5915g Terminal Portrait" width="450" />
       </td>
       <td align="center" valign="top" style="border: none; padding: 6px;">
-        <img src="./info-card.svg" alt="joshua5915g Neofetch Info" width="450" />
+        <img src="./info-card.svg?v=2" alt="joshua5915g Neofetch Info" width="450" />
       </td>
     </tr>
   </table>
 
   <!-- Centered Animated Contribution Graph -->
   <div style="margin-top: 18px; margin-bottom: 24px;">
-    <img src="./github-contribution-animation.svg" alt="joshua5915g Activity Radar" width="880" />
+    <img src="./github-contribution-animation.svg?v=2" alt="joshua5915g Activity Radar" width="880" />
   </div>
 
 </div>
