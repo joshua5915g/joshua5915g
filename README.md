@@ -1,14 +1,14 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Joshua+%F0%9F%91%8B;Full-Stack+%26+Systems+Architect+%E2%9A%A1;Crafting+High-Performance+Distributed+Code;Welcome+to+my+Digital+Cyberdeck+%F0%9F%9A%80" alt="Joshua Header" /></p>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Joshua+Jose+%F0%9F%91%8B;Aspiring+Computer+Scientist+%26+Tech+Operator+%E2%9A%A1;Building+Finance+%26+Energy+Intelligence;Focused+on+ML%2C+GenAI+%26+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F" alt="Joshua Jose Header" /></p>
 
 <p align="center">
-  <a href="https://github.com/joshua5915g">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE-39d353?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" alt="Status" />
+  <a href="https://joshuajoseportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00f0ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" />
   </a>
   <a href="https://github.com/joshua5915g">
-    <img src="https://img.shields.io/badge/ARCH-CYBERPUNK-00f0ff?style=for-the-badge&logo=archlinux&logoColor=00f0ff&labelColor=0d1117" alt="Architecture" />
+    <img src="https://img.shields.io/badge/ROLE-TECH%20OPERATOR-39d353?style=for-the-badge&logo=terminal&logoColor=white&labelColor=0d1117" alt="Role" />
   </a>
   <a href="https://github.com/joshua5915g">
-    <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SYSTEMS-ff9800?style=for-the-badge&logo=lightning&logoColor=ff9800&labelColor=0d1117" alt="Focus" />
+    <img src="https://img.shields.io/badge/FOCUS-ML%20%26%20CYBERSECURITY-ff9800?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=0d1117" alt="Focus" />
   </a>
 </p>
 
