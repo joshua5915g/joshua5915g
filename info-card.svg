@@ -178,7 +178,7 @@
       <animateTransform attributeName="transform" type="translate" values="0, 8; 0, 0" dur="0.22s" begin="0.92s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
       <animate attributeName="opacity" values="0; 1" dur="0.22s" begin="0.92s" fill="freeze" />
       <text x="8" y="41" fill="#00f0ff" class="entry-label">Role:</text>
-      <text x="108" y="41" fill="#f0f6fc" class="entry-val">AI &amp; Cybersecurity Developer</text>
+      <text x="108" y="41" fill="#f0f6fc" class="entry-val">Aspiring Computer Scientist &amp; Tech Operator</text>
     </g>
     <!-- Item: Location -->
     <g opacity="0">

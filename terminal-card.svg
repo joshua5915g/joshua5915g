@@ -354,7 +354,7 @@
       <text x="185" y="22" font-family="ui-monospace, Consolas, monospace" font-size="10px" fill="#8b949e">[uid=1000 gid=1000]</text>
 
       <!-- Output 2: Specialty / Roles -->
-      <text x="0" y="40" class="out-sub">Role: <tspan fill="#f0f6fc">AI &amp; Cybersecurity Developer</tspan></text>
+      <text x="0" y="40" class="out-sub">Role: <tspan fill="#f0f6fc">Aspiring Computer Scientist &amp; Tech Operator</tspan></text>
       <text x="0" y="56" class="out-status">Status: 🟢 Building ML, GenAI &amp; Intelligent Energy Systems</text>
       
       <!-- Output 3: Blinking cursor at prompt return -->
