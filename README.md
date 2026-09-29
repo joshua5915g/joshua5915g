@@ -29,13 +29,79 @@
     </tr>
   </table>
 
-  <!-- Centered Animated Contribution Graph -->
-  <div style="margin-top: 18px; margin-bottom: 24px;">
-    <img src="./github-contribution-animation.svg?v=2" alt="joshua5915g Activity Radar" width="880" />
-  </div>
-
 </div>
 <!-- END_SECTION:CYBER_PROFILE -->
+
+---
+
+<!-- START_SECTION:SYSTEMS_AND_OPERATIONS -->
+### <p align="center">🔬 Systems Architecture &amp; Research Vectors</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0 auto; width: 100%;">
+  <thead>
+    <tr style="border-bottom: 1.5px solid #30363d;">
+      <th align="left" style="padding: 10px; color: #00f0ff;">Domain / Objective</th>
+      <th align="left" style="padding: 10px; color: #00f0ff;">Architectural Focus</th>
+      <th align="left" style="padding: 10px; color: #00f0ff;">Primary Stack</th>
+      <th align="center" style="padding: 10px; color: #00f0ff;">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 10px;">
+        <b>01 · Autonomous &amp; GenAI</b>
+      </td>
+      <td style="padding: 10px; color: #8b949e;">
+        Agentic orchestration, RAG pipelines, fine-tuned domain models &amp; semantic retrieval
+      </td>
+      <td style="padding: 10px;">
+        <code>Python</code> <code>PyTorch</code> <code>FastAPI</code>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/ACTIVE-39d353?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" alt="Active" />
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 10px;">
+        <b>02 · Energy &amp; Finance</b>
+      </td>
+      <td style="padding: 10px; color: #8b949e;">
+        Time-series telemetry forecasting, grid intelligence &amp; high-throughput quantitative pipelines
+      </td>
+      <td style="padding: 10px;">
+        <code>Rust</code> <code>Go</code> <code>Postgres</code> <code>Redis</code>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/RESEARCH-00f0ff?style=flat-square&logo=target&logoColor=white&labelColor=0d1117" alt="Research" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <b>03 · Cyber Defense &amp; Systems</b>
+      </td>
+      <td style="padding: 10px; color: #8b949e;">
+        Secure enclave runtimes, container isolation, threat modeling &amp; zero-trust hardening
+      </td>
+      <td style="padding: 10px;">
+        <code>C++</code> <code>Linux</code> <code>Docker</code> <code>K8s</code>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/HARDENED-bc8cff?style=flat-square&logo=shield&logoColor=white&labelColor=0d1117" alt="Hardened" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+### <p align="center">⚡ Engineering Velocity &amp; Telemetry</p>
+
+<div align="center">
+  <a href="https://github.com/joshua5915g">
+    <img src="https://streak-stats.demolab.com/?user=joshua5915g&theme=dark&background=0d1117&border=30363d&stroke=00f0ff&ring=00f0ff&fire=39d353&currStreakLabel=00f0ff&sideLabels=8b949e&dates=c9d1d9" alt="Joshua's Git Velocity Streak" width="495" />
+  </a>
+</div>
+<!-- END_SECTION:SYSTEMS_AND_OPERATIONS -->
 
 ---
 
@@ -48,5 +114,5 @@
 <br />
 
 <div align="center">
-  <sub>⚡ Built with pure SMIL animations, SVGs &amp; Python automation • Designed for peak performance.</sub>
+  <sub>⚡ Built with pure SMIL vector cards, high-velocity telemetry &amp; modern engineering standards.</sub>
 </div>
