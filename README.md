@@ -21,13 +21,18 @@
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; margin: 0 auto;">
     <tr>
       <td align="center" valign="top" style="border: none; padding: 6px;">
-        <img src="./terminal-card.svg?v=3" alt="joshua5915g Terminal Portrait" width="450" />
+        <img src="./terminal-card.svg?v=4" alt="joshua5915g Terminal Portrait" width="450" />
       </td>
       <td align="center" valign="top" style="border: none; padding: 6px;">
         <img src="./info-card.svg?v=2" alt="joshua5915g Neofetch Info" width="450" />
       </td>
     </tr>
   </table>
+
+  <!-- Centered Cinematic Hero Walking Banner -->
+  <div style="margin-top: 20px; margin-bottom: 24px;" align="center">
+    <img src="./walking-banner.gif?v=1" alt="Joshua Jose - Tech Operator in Motion" width="880" style="border-radius: 12px; border: 1.2px solid #30363d; display: block;" />
+  </div>
 
 </div>
 <!-- END_SECTION:CYBER_PROFILE -->
