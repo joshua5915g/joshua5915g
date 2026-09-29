@@ -31,7 +31,7 @@
 
   <!-- Centered Cinematic Hero Walking Banner -->
   <div style="margin-top: 20px; margin-bottom: 24px;" align="center">
-    <img src="./walking-banner.gif?v=1" alt="Joshua Jose - Tech Operator in Motion" width="880" style="border-radius: 12px; border: 1.2px solid #30363d; display: block;" />
+    <img src="./walking-banner.webp?v=1" alt="Joshua Jose - Tech Operator in Motion" width="880" style="border-radius: 12px; border: 1.2px solid #30363d; display: block;" />
   </div>
 
 </div>
