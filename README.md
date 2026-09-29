@@ -49,7 +49,11 @@
   <tbody>
     <tr style="border-bottom: 1px solid #21262d;">
       <td style="padding: 10px;">
-        <b>01 · Autonomous &amp; GenAI</b>
+        <a href="https://nutrition-food-grader.vercel.app/" target="_blank">
+          <b>01 · Autonomous &amp; GenAI</b>
+        </a>
+        <br />
+        <sub>↳ App: <a href="https://nutrition-food-grader.vercel.app/" target="_blank"><b>NutriGrade AI ↗</b></a></sub>
       </td>
       <td style="padding: 10px; color: #8b949e;">
         Agentic orchestration, RAG pipelines, fine-tuned domain models &amp; semantic retrieval
@@ -58,12 +62,18 @@
         <code>Python</code> <code>PyTorch</code> <code>FastAPI</code>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/ACTIVE-39d353?style=flat-square&logo=git&logoColor=white&labelColor=0d1117" alt="Active" />
+        <a href="https://nutrition-food-grader.vercel.app/" target="_blank" title="Launch NutriGrade AI">
+          <img src="https://img.shields.io/badge/ACTIVE-39d353?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="Active - Launch App" />
+        </a>
       </td>
     </tr>
     <tr style="border-bottom: 1px solid #21262d;">
       <td style="padding: 10px;">
-        <b>02 · Energy &amp; Finance</b>
+        <a href="https://solar-weather-impact.vercel.app/" target="_blank">
+          <b>02 · Energy &amp; Finance</b>
+        </a>
+        <br />
+        <sub>↳ App: <a href="https://solar-weather-impact.vercel.app/" target="_blank"><b>WattWise ↗</b></a></sub>
       </td>
       <td style="padding: 10px; color: #8b949e;">
         Time-series telemetry forecasting, grid intelligence &amp; high-throughput quantitative pipelines
@@ -72,12 +82,18 @@
         <code>Rust</code> <code>Go</code> <code>Postgres</code> <code>Redis</code>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/RESEARCH-00f0ff?style=flat-square&logo=target&logoColor=white&labelColor=0d1117" alt="Research" />
+        <a href="https://solar-weather-impact.vercel.app/" target="_blank" title="Launch WattWise">
+          <img src="https://img.shields.io/badge/RESEARCH-00f0ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="Research - Launch App" />
+        </a>
       </td>
     </tr>
     <tr>
       <td style="padding: 10px;">
-        <b>03 · Cyber Defense &amp; Systems</b>
+        <a href="https://neurospeciiot.vercel.app/" target="_blank">
+          <b>03 · Cyber Defense &amp; Systems</b>
+        </a>
+        <br />
+        <sub>↳ App: <a href="https://neurospeciiot.vercel.app/" target="_blank"><b>NeuroSpec IIoT ↗</b></a></sub>
       </td>
       <td style="padding: 10px; color: #8b949e;">
         Secure enclave runtimes, container isolation, threat modeling &amp; zero-trust hardening
@@ -86,7 +102,9 @@
         <code>C++</code> <code>Linux</code> <code>Docker</code> <code>K8s</code>
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/HARDENED-bc8cff?style=flat-square&logo=shield&logoColor=white&labelColor=0d1117" alt="Hardened" />
+        <a href="https://neurospeciiot.vercel.app/" target="_blank" title="Launch NeuroSpec IIoT">
+          <img src="https://img.shields.io/badge/HARDENED-bc8cff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="Hardened - Launch App" />
+        </a>
       </td>
     </tr>
   </tbody>
