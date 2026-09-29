@@ -12,6 +12,11 @@
   </a>
 </p>
 
+<!-- 🎬 HERO BANNER: JOSHUA IN MOTION (FIRST SEEN) -->
+<div align="center" style="margin-top: 16px; margin-bottom: 24px;">
+  <img src="./walking-banner.webp?v=2" alt="Joshua Jose - Tech Operator in Motion" width="880" style="border-radius: 12px; border: 1.2px solid #30363d; display: block;" />
+</div>
+
 ---
 
 <!-- START_SECTION:CYBER_PROFILE -->
@@ -28,11 +33,6 @@
       </td>
     </tr>
   </table>
-
-  <!-- Centered Cinematic Hero Walking Banner -->
-  <div style="margin-top: 20px; margin-bottom: 24px;" align="center">
-    <img src="./walking-banner.webp?v=1" alt="Joshua Jose - Tech Operator in Motion" width="880" style="border-radius: 12px; border: 1.2px solid #30363d; display: block;" />
-  </div>
 
 </div>
 <!-- END_SECTION:CYBER_PROFILE -->
